@@ -1,0 +1,14 @@
+.background {
+  background-color: aquamarine;
+  width: 400px;
+  height: 400px;
+  float: left;
+  border-radius: 50%;
+}
+
+.moji {
+  font-size: 30px;
+  width: 100%;
+  font-family: "Courier New", Courier, monospace;
+  overflow: scroll;
+}
